@@ -188,27 +188,15 @@ font-size:14px;
 
 #developercontainer {
 	margin-left:25px;
-	margin-bottom:25px;
+	margin-top:25px;
 	position:fixed;
-	bottom:0;
-}
-
-#jisc {
-width: 71px;
-height: 56px;
-background-image: url('../images/jisc-logo-small.png');
-background-repeat: no-repeat;
-display:inline-block;
-}
-
-#jisc span {
-	display:none;
+	top:0;
 }
 
 #oii {
 width: 227px;
-height: 56px;
-background-image: url('../images/oii_text.png');
+height: 61px;
+background-image: url('../images/imw.png');
 background-repeat: no-repeat;
 display:inline-block;
 margin-right:10px;
@@ -219,19 +207,40 @@ margin-right:10px;
 	display:none;
 }
 
-#maintitle {
-width: 100%;
-height: 72px;
+#oii2 {
+width: 625px;
+height: 100px;
+background-image: url('../images/Legende Palette.png');
 background-repeat: no-repeat;
-margin-bottom:20px;
+background-size: contain;
+display:inline-block;
+
 }
 
-#maintitle h1 {
-display: none;
+#oii2 span {
+	display:none;
 }
+
+#developercontainer2 {
+	margin-right:25px;
+	margin-bottom:25px;
+	position:fixed;
+	bottom:0;
+	right:0;
+	text-align:right;
+}
+
+#LegendeP {
+	margin-left:25px;
+	margin-bottom:25px;
+	position:fixed;	
+	bottom:0;
+	left: 0;
+}
+
 
 #mainpanel {
-margin-top: 50px;
+margin-top: 125px;
 margin-left: 25px;
 background:#fff;
 background-color:rgba(255,255,255,0.8);
@@ -256,9 +265,7 @@ margin: 0;
 font-weight: bold;
 }
 
-#titletext {
-padding: 6px 0 10px 0;
-}
+
 
 #info {
 	padding-bottom:15px;

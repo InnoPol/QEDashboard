@@ -3,23 +3,20 @@
   "version": "1.0",
   "data": "data.json",
   "logo": {
-    "file": "",
-    "link": "",
-    "text": "Max Mittenzwei"
   },
   "text": {
     "more": "",
     "intro": "",
-    "title": "QED-Dashboard"
+    "title": "QuantumDashboard"
   },
   "legend": {
-    "edgeLabel": "gemeinsame Verbundsteilnahme",
+    "edgeLabel": "Verbindung - Mitglied",
     "colorLabel": "Verbund",
     "nodeLabel": "Organisation"
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": false,
+    "groupSelectorAttribute": "Verbund",
     "hoverBehavior": "dim"
   },
   "informationPanel": {
@@ -33,17 +30,17 @@
       "defaultLabelBGColor": "#ddd",
       "activeFontStyle": "bold",
       "defaultLabelColor": "#000",
-      "labelThreshold": 10,
+      "labelThreshold": 7,
       "defaultLabelHoverColor": "#fff",
-      "fontStyle": "bold",
+      "fontStyle": "light",
       "hoverFontStyle": "bold",
-      "defaultLabelSize": 14
+      "defaultLabelSize": 20
     },
     "graphProperties": {
-      "maxEdgeSize": 0.5,
-      "minEdgeSize": 0.2,
-      "minNodeSize": 1,
-      "maxNodeSize": 7
+      "maxEdgeSize": 1.0,
+      "minEdgeSize": 0.3,
+      "minNodeSize": 2,
+      "maxNodeSize": 20
     },
     "mouseProperties": {
       "maxRatio": 20,
