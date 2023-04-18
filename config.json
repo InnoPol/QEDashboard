@@ -7,16 +7,16 @@
   "text": {
     "more": "",
     "intro": "",
-    "title": "QC-Dashboard"
+    "title": "QuantumDashboard"
   },
   "legend": {
-    "edgeLabel": "Verbindung - Mitglied",
-    "colorLabel": "Verbund",
+    "edgeLabel": "Verbindung durch Fördermaßnahme",
+    "colorLabel": "Organisationstyp",
     "nodeLabel": "Organisation"
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": "Verbund",
+    "groupSelectorAttribute": "typ",
     "hoverBehavior": "dim"
   },
   "informationPanel": {
@@ -30,7 +30,7 @@
       "defaultLabelBGColor": "#ddd",
       "activeFontStyle": "bold",
       "defaultLabelColor": "#000",
-      "labelThreshold": 7,
+      "labelThreshold": 9,
       "defaultLabelHoverColor": "#fff",
       "fontStyle": "light",
       "hoverFontStyle": "bold",
@@ -39,8 +39,8 @@
     "graphProperties": {
       "maxEdgeSize": 1.0,
       "minEdgeSize": 0.3,
-      "minNodeSize": 1,
-      "maxNodeSize": 24
+      "minNodeSize": 2,
+      "maxNodeSize": 25
     },
     "mouseProperties": {
       "maxRatio": 20,
