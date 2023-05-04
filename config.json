@@ -6,7 +6,7 @@
   },
   "text": {
     "more": "",
-    "intro": "Das Netzwerk zeigt alle Organisationen in Deutschland, die Förderung im Themenbereich Quantencomputing erhalten haben. Organisationen sind dabei entsprechend ihres Typs eingefärbt und durch eine Linie verbunden, sobald sie gemeinsam ein Quantencomputing-Projekt bearbeiten. Die Durchmesser der Knotenpunkte berechnen sich aus der Summe der erhaltenen Förderungen.",
+    "intro": "Das Netzwerk zeigt alle Organisationen in Deutschland, die Förderung im Themenbereich Quantencomputing erhalten haben. Organisationen sind dabei entsprechend ihres Typs eingefärbt und durch eine Linie verbunden, sobald sie gemeinsam ein Quantencomputing-Projekt bearbeiten. Die Durchmesser der Knotenpunkte ergeben sich aus der Summe der erhaltenen Förderungen.",
     "title": ""
   },
   "legend": {
